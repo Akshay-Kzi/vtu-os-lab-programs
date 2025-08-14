@@ -1,2 +1,6 @@
 # vtu-os-lab-programs
-VTU OS Lab Programs (22 Scheme)
+<br>
+VTU OS Lab Programs (22 Scheme) of 3rd Semv :)
+<br>
+## 📂 Repository Structure
+
