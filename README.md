@@ -29,15 +29,15 @@ README.md
 | 4 | [RoundRobin.c](Programs/Program2/RoundRobin.c) | Round Robin CPU scheduling algorithm |
 | 5 | [SJF.c](Programs/Program2/SJF.c) | Shortest Job First CPU scheduling algorithm |
 | 6 | [ProducerConsumer.c](Programs/Program3/ProducerConsumer.c) | Producer-Consumer problem using synchronization |
-
+(Rest programs will be uploaded)
 ---
 
 ## 🚀 How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Akshay-Kzi/vtu-os-lab-programs.git
+   cd vtu-os-lab-programs
 2. Compile a program (example for FCFS):
    ```bash
    gcc Programs/Program2/FCFS.c -o fcfs
